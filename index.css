@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    background: #1F2937;
+    color: white;
+
+}
+
+.group{
+    width: 550px;
+    height: 550px;
+    margin-top: 64px;
+    margin-left: 62px;
+}
+
+#random {
+    color: green;
+}
+
+p {
+    color: #D5D4D8;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+h1 {
+    font-family: "Karla";
+    font-weight: 800px;
+    font-size: 40px;
+    line-height: 40px;
+}
+
+button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 17px 9px 15px;
+    width: 191px;
+    height: 42px;
+    left: 52px;
+    top: 284px;
+    border-radius: 9px;
+    border: none;
+    color: white;
+    background: #10B981;
+}
+
+hr {
+    width: 400px;
+    height: 0px;
+    border: 1px solid #2F3E53;
+    margin-left: 0px;
+    }
+    
+#password {
+width: 211px;
+height: 39px;
+background: #273549;
+border-radius: 6px;
+text-align: center;
+margin-top: 10px;
+line-height: 37px;
+}
